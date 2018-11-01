@@ -1,2 +1,2 @@
 # we-live-ios
-# we-token update live-ios 'll'
+# we-token update live-ios ll
